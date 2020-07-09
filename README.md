@@ -1,5 +1,5 @@
 # Multi-Cloud-Managment-System
-A platform to combine all cloud users,cloud brokers,cloud providers
+A platform to join all cloud users,cloud brokers,cloud providers
 During the past few years, cloud computing has received significant investments in the industry. 
 Many cloud providers are participating in the market, forming a competitive environment which is referred to as multiuser and multi-provider cloud market.
 Hereafter, we will use the terms “providers” and “users” to refer to the cloud actors. 
